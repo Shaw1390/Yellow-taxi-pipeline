@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="">
+<img src="https://github.com/Shaw1390/Yellow-taxi-pipeline/blob/main/Images/architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
@@ -15,11 +15,6 @@ Google Cloud Platform
 2. Compute Instance 
 3. BigQuery
 4. Looker Studio
-
-Modern Data Pipeine Tool - https://www.mage.ai/
-
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
 
 ## Dataset Used
 TLC Trip Record Data
@@ -32,7 +27,8 @@ More info about dataset can be found here:
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
+<img src="https://github.com/Shaw1390/Yellow-taxi-pipeline/blob/main/Images/data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+## Looker Dashboard
+<img src ="https://github.com/Shaw1390/Yellow-taxi-pipeline/blob/main/Images/New_York's_Yellow_Taxi_Trips_Data_Pipeline_page-0001.jpg">
+Link: https://lookerstudio.google.com/s/jPgvxDJoPIY
